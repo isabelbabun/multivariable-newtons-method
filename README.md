@@ -1,2 +1,2 @@
 # multivariable-newtons-method
-Newton's method for a function of two variables
+Old homework exercise using Newton's method on a function of two variables.
